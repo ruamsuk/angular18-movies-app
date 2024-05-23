@@ -2,6 +2,20 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0.
 
+```html
+https://github.com/techiediaries/angular-18-movies-app
+```
+
+This is [source code on git](https://github.com/techiediaries/angular-18-movies-app/ "angular-18-movies-app")
+
+---
+
+- ngx-infinite-scroll
+
+- Tailwind
+
+---
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
